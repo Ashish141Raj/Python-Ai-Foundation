@@ -1,0 +1,10 @@
+# Print multiplication table from 1 to 3
+# Output:
+# 123
+# 246
+# 369
+
+for i in range(1,4):
+    for j in range(1,4):
+        print(i*j,end="");
+    print()
