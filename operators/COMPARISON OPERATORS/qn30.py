@@ -7,4 +7,4 @@ if num > 500:
 elif num < 500:
     print(f"{num} is less than 500.")
 else:
-    print(f"{num} is equals to 500")
+    print(f"{num} is equal to 500")
