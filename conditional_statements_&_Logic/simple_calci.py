@@ -13,7 +13,7 @@ match op:
         print(num1," * ",num2, "=",(num1*num2))
     case '/':
         if num2 != 0:
-            print(num1," + ",num2, "=",(num1+num2))
+            print(num1," + ",num2, "=",(num1/num2))
         else:
             print("Division by zero is not allowed ")
     case _:
